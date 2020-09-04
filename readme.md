@@ -1,4 +1,6 @@
-#Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+**Unit 02 CSS and Bootstrap Homework: Responsive Portfolio**
+
+## Overview of Requirements 
 
 The mandate for this weeks homework was to create a responsive web portfolio consisting of 3 pages:  
 
@@ -6,10 +8,14 @@ The mandate for this weeks homework was to create a responsive web portfolio con
  * Portfolio
  * Contact
 
+### My Website
 My website was developed using Bootstrap CSS Framework and I also reference Fontawesome for my Linkedin icon.  Each file contains links for:
+
  * Bootstap and Fontawesome css sheets
  * Style sheet css
  * Javascripts for Bootstrap and Fontawesome
+
+ Styling elements include a navbar with hamburger for smaller resolutions, and a sticky footer.
 
 Initial commit includes the following files:
 
