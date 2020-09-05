@@ -27,4 +27,8 @@ Initial commit includes the following files:
  * assets/styles.css
  * assets/yvonne.jpg
 
+ Subsequent commits will have their own comments.
+
+HTML written semantic and validated via https://validator.w3.org/ both prior to committing and once site live.  All 3 pages checked as Ok - no errors.
+
  Visit website here:  https://mulys001.github.io/UNIWA02

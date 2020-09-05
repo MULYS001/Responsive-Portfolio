@@ -7,15 +7,15 @@
 
     <title>Yvonne Mulligan</title>
 
-  <!--Boostrap Linking & Fontawesome Linking -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
-    integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
- 
- <!-- Stylesheet Linking -->
+    <!--Boostrap Linking & Fontawesome Linking -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- Stylesheet Linking -->
     <link rel="stylesheet" href="style.css">
 
- <!-- Javascript Linking -->
+    <!-- Javascript Linking -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
         integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
         crossorigin="anonymous"></script>
@@ -37,6 +37,8 @@
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
+
+         <!-- Navigation menu items on right of navbar/collapsed navbar -->
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
@@ -53,7 +55,7 @@
         </div>
     </nav>
 
-    <!-- Container -contains content and footer -->
+    <!-- Container -contains main page content -->
     <div class="container-fluid">
 
         <!-- 1st Row - contains 2 columns with content -->
@@ -62,7 +64,8 @@
             <!-- 1st Column that holds subrows-->
             <div class="col-9">
                 <div class="wrapper">
-                    <!--1st sub-row - Contact-->
+
+                    <!--1st sub-row - Contact heading-->
                     <div class="row">
                         <div class="col-9">
                             <h1>Contact</h1>
@@ -72,21 +75,29 @@
                     <div class="row">
                         <div class="col-11">
                             <form>
+                                <!-- Name entry field, with name descriptor in field -->
                                 <div class="form-group">
                                     <label for="formGroupExampleInput">Name</label>
                                     <input type="text" class="form-control" id="formGroupExampleInput"
                                         placeholder="Name">
                                 </div>
+
+                                <!-- Email address entry field, with email descriptor in field -->
                                 <div class="form-group">
                                     <label for="exampleInputEmail1">Email address</label>
                                     <input type="email" class="form-control" id="exampleInputEmail1"
                                         placeholder="Email">
                                 </div>
+
+                                <!-- Message entry field, with message descriptor in field -->
                                 <div class="form-group">
                                     <label for="exampleFormControlTextarea1">Message</label>
+                                    <!-- Message entry is set as 3 rows high -->
                                     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                                 </div>
-                                <button type="submit" class="btn btn-info" padding=10px;>Submit</button>
+
+                                <!-- Submit button for contact form, does not go anywhere as yet -->
+                                <button type="submit" class="btn btn-info">Submit</button>
                                 <br>
                                 <br>
                             </form>
@@ -96,14 +107,15 @@
             </div>
         </div>
     </div>
-</body>
 
-<!-- Footer -->
-<footer>
-    <!-- Copyright & Linkedin button -->
-  <div class="text-center">© 2020  |  Yvonne Mulligan |      
-    <a href="https://www.linkedin.com/in/ymulligan" target="_blank"><i class="fab fa-linkedin-in"></i></a> 
-  </div>
-</footer>
+    <!-- Sticky Footer -->
+    <footer>
+        <!-- Copyright & year, my name & Linkedin button -->
+        <div class="text-center">© 2020 | Yvonne Mulligan |
+            <a href="https://www.linkedin.com/in/ymulligan" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+        </div>
+    </footer>
+
+</body>
 
 </html>
