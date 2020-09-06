@@ -49,7 +49,20 @@ footer {
     width: 100%;
     padding: 10px;
     color: teal;
-    background-color: #343a40;
+    /* background-color: #343a40; */
+    animation: pulse 5s infinite;
+}
+
+@keyframes pulse {
+    0% {
+      background-color: #343a40;
+    }
+    50% {
+      background-color: lightslategray;  
+    }
+    100% {
+      background-color: #343a40;
+    }
 }
 
 @media  (max-width: 992px) {
