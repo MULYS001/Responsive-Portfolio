@@ -1,14 +1,6 @@
-**Unit 02 CSS and Bootstrap Homework: Responsive Portfolio**
+**Yvonne Mulligan - Responsive Portfolio**
 
-## Overview of Requirements 
-
-The mandate for this weeks homework was to create a responsive web portfolio consisting of 3 pages:  
-
- * Index (About Me) https://mulys001.github.io/Responsive-Portfolio/
- * Portfolio https://mulys001.github.io/Responsive-Portfolio/assets/portfolio.html
- * Contact https://mulys001.github.io/Responsive-Portfolio/assets/contact.html
-
-### My Website
+### My Portfolio
 My website was developed using Bootstrap CSS Framework and I also reference Fontawesome for my Linkedin icon.  Each file contains links for:
 
  * Bootstap and Fontawesome css sheets
@@ -27,9 +19,8 @@ Initial commit includes the following files:
  * assets/styles.css
  * assets/yvonne.jpg
 
-Subsequent commits will have their own comments.
-
-HTML written semantic and validated via https://validator.w3.org/ both prior to committing and once site live.  All 3 pages checked as Ok - no errors.
+Updates to my Portfolio have included some of my projects and work to date, see on my portfolio page, along with links to my projects on 
+Github.  I have also linked my resume on my 'About Me' page and provided link to Portfolio page.
 
 ## Website Link & Preview Images
 
@@ -39,8 +30,8 @@ Visit website here:  https://mulys001.github.io/Responsive-Portfolio/
 #### Index page:
 ![Index page](https://github.com/MULYS001/Responsive-Portfolio/blob/master/assets/Responsive-Portfolio-index.jpg)
 
-#### Portfolio page:
-![Portfolio page](https://github.com/MULYS001/Responsive-Portfolio/blob/master/assets/Responsive-Portfolio-portfolio.jpg)
+#### Updated Portfolio page:
+![Portfolio page](https://github.com/MULYS001/Responsive-Portfolio/blob/master/assets/Updated-Portfolio.jpg)
 
 #### Contact page:
 ![Contact page](https://github.com/MULYS001/Responsive-Portfolio/blob/master/assets/Responsive-Portfolio-contact.jpg)
