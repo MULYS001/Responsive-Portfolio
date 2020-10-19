@@ -22,15 +22,17 @@ Initial commit includes the following files:
  * assets/styles.css
  * assets/yvonne.jpg
 
-Updates to my Portfolio have included some of my projects and work to date, see on my portfolio page, along with links to my projects on 
-Github.  I have also linked my resume on my 'About Me' page and provided link to Portfolio page.
+Updates to my Portfolio have included some of my projects and work to date that can be seen on my portfolio page, along with links to my projects on 
+Github.  
+
+I have also linked my resume on my 'About Me' page and provided the link to my Portfolio page.
 
 ## Website Link & Preview Images
 
 #### Website Link:
 Visit website here:  https://mulys001.github.io/Responsive-Portfolio/
 
-#### Index page:
+#### Updated Index page:
 ![Index page](https://github.com/MULYS001/Responsive-Portfolio/blob/master/assets/Updated-Index.jpg)
 
 #### Updated Portfolio page:
