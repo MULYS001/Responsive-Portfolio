@@ -1,4 +1,4 @@
-**Yvonne Mulligan - Responsive Portfolio**
+## Yvonne Mulligan - Responsive Portfolio
 
 Website Link:
 Visit website here: https://mulys001.github.io/Responsive-Portfolio/
@@ -31,7 +31,7 @@ Github.  I have also linked my resume on my 'About Me' page and provided link to
 Visit website here:  https://mulys001.github.io/Responsive-Portfolio/
 
 #### Index page:
-![Index page](https://github.com/MULYS001/Responsive-Portfolio/blob/master/assets/Responsive-Portfolio-index.jpg)
+![Index page](https://github.com/MULYS001/Responsive-Portfolio/blob/master/assets/Updated-Index.jpg)
 
 #### Updated Portfolio page:
 ![Portfolio page](https://github.com/MULYS001/Responsive-Portfolio/blob/master/assets/Updated-Portfolio.jpg)
